@@ -9,6 +9,6 @@
     "description": "If a work item is in the shape of an ingot or a plate when removed from the anvil, it is returned as that item rather than being stuck as a work item.",
     "version": "1.0.0",
     "dependencies": {
-        "game": "1.22.*"
+        "game": "1.22.7"
     }
 }

@@ -5,20 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ae3aac0c-aa1c-4205-bb6f-84c0247b66f9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UnusedWorkItemRefund.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UnusedWorkItemToIngot/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UnusedWorkItemToIngot/UnusedWorkItemRefund/AnvilInteraction.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UnusedWorkItemToIngot/UnusedWorkItemRefund/Properties/launchSettings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UnusedWorkItemToIngot/UnusedWorkItemRefund/UnusedWorkItemRefund.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UnusedWorkItemToIngot/UnusedWorkItemRefund/UnusedWorkItemRefundModSystem.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UnusedWorkItemToIngot/UnusedWorkItemRefund/modicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UnusedWorkItemToIngot/UnusedWorkItemRefund/modinfo.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UnusedWorkItemToIngot/UnusedWorkItemToIngot.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UnusedWorkItemToIngot/ZZCakeBuild/CakeBuild.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UnusedWorkItemToIngot/ZZCakeBuild/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UnusedWorkItemToIngot/build.ps1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UnusedWorkItemToIngot/build.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnusedWorkItemToIngot/UnusedWorkItemRefund/modinfo.json" beforeDir="false" afterPath="$PROJECT_DIR$/UnusedWorkItemToIngot/UnusedWorkItemRefund/modinfo.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,7 +117,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1791042241402</updated>
-      <workItem from="1791042241546" duration="19634000" />
+      <workItem from="1791042241546" duration="20383000" />
     </task>
     <servers />
   </component>
