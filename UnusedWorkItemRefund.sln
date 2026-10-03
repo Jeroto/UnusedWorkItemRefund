@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnusedWorkItemRefund", "UnusedWorkItemToIngot\UnusedWorkItemRefund\UnusedWorkItemRefund.csproj", "{DA977751-FFC0-4438-BC49-9B11E285051B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CakeBuild", "UnusedWorkItemToIngot\ZZCakeBuild\CakeBuild.csproj", "{7AF4365F-ED52-426A-B78F-81B4C468F1AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA977751-FFC0-4438-BC49-9B11E285051B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA977751-FFC0-4438-BC49-9B11E285051B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA977751-FFC0-4438-BC49-9B11E285051B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA977751-FFC0-4438-BC49-9B11E285051B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AF4365F-ED52-426A-B78F-81B4C468F1AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AF4365F-ED52-426A-B78F-81B4C468F1AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AF4365F-ED52-426A-B78F-81B4C468F1AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AF4365F-ED52-426A-B78F-81B4C468F1AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
